@@ -1,4 +1,4 @@
-# CAR-INFO-BAZAR
+# CAR-INFO-BAZAAR
 Car info bazar gives you the all the latest info of any car in market
 
 # enviroment 
